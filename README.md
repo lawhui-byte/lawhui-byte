@@ -2,4 +2,4 @@
 
 🎓 Electronics Engineering Student  
 💡 Specialise in Medical Electronics
-🔧 Currently learning ESP32, Sensors & AI 
+
